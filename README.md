@@ -1,2 +1,4 @@
 # WeatherWise
-A responsive website that show the weather of different . Built with HTML, CSS, and JavaScript.
+WeatherWise is a sleek and user-friendly weather website built with HTML, CSS, and JavaScript. 
+<br>
+Stay informed about the latest weather updates with accurate forecasts and beautiful visualizations.
